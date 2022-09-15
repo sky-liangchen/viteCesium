@@ -6,4 +6,4 @@ declare module '*.vue' {
   export default component
 }
 // 为ts声明cdn的Cesium
-declare let Cesium
+declare var Cesium
